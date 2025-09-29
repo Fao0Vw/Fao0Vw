@@ -31,14 +31,13 @@
 - Хранилища данных: SQL, PostgreSQL, Redis, Elasticsearch.
 - Хорошее знание Linux как в среде десктопа, так и на серверах.
 - Написание скриптов на Bash, Python
-- Хорошо знаком с Docker, Dockerfiles, Docker Compose.
 - Опыт работы с K8S, OpenShift
 - Опыт работы с  Git, GitHub.
-- Опыт работы с Kafka, RabbitMQ (базовый уровень).
+- Опыт работы с Kafka.
 - Мониторинг: ELK (Elasticsearch, Logstash, Kibana).
 - Документация: Markdown, Obsidian, Confluence.
 - Базовое знание Golang, готов активно изучать.
-- Английский язык (A2-B1): без проблем могу читать тех. документацию и переписываться, разговорный надо подтягивать.
+- Английский язык (A2): без проблем могу читать тех. документацию и переписываться, разговорный надо подтягивать.
 ## Контакты
 - **Email**: al.u.fedorov@gmail.com  
 - **Telegram**: [https://t.me/aufedorov](https://t.me/aufedorov)  
